@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.rightimg {
+	max-width: 40%;
+	max-width: 240px;
+	float: right;
+}
+.leftimg {
+	float: left
+}
+
